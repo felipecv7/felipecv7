@@ -1,8 +1,8 @@
 # presentation
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+o+Felipe,+Seja+bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+o+Felipe,+Seja+bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
-   <img src="https://img.shields.io/badge/Python-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Python Badge">
-   <img src="https://img.shields.io/badge/Ruby-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Ruby Badge">
+   <img src="https://img.shields.io/badge/Python-0175C2?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+   <img src="https://img.shields.io/badge/Ruby-02569B?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge">
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-   <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Docker Badge">
+   <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Python Badge">
+   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge">
 
 </div>
@@ -29,22 +29,22 @@
 
 ## 🚀 Sobre mim
 Sou desenvolvedor Fullstack.<br>
-Moro no interior do Rio de Janeiro e em Vitória. 
+<!--Moro no interior do Rio de Janeiro e em Vitória.--> 
 <br>
 
 
 <br/>
-
-<div style="display: flex;">
+<!--
+<div style="display: center;">
     <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecv7&hide_progress=true&theme=aura" alt="ilustração do status do github">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipecv7&show_icons=true&theme=aura">
 </div>
-
+-->
 <br> <br>
-##
+<!--##-->
 
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=felipecv7&theme=tokyonight" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=felipecv7&theme=matrix" alt="GitHub Trophy">
 </p>
 
 
@@ -55,7 +55,7 @@ Moro no interior do Rio de Janeiro e em Vitória.
 </a> 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=45&center=true&vCenter=true&width=1000&lines=+Página+em+construção+:+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=45&center=true&vCenter=true&width=1000&lines=+Página+em+construção+:+)](https://git.io/typing-svg)
 
 <!--<div align="center">
   <a href="https://www.linkedin.com/in/felipe-cabral-viana/">
