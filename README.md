@@ -23,8 +23,8 @@
 </div>
 
 ## Minhas redes socias! 📫
-<div>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-cabral-viana/)](https://www.linkedin.com/in/felipe-cabral-viana/)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/felipecv_7/)](https://www.instagram.com/felipecv_7/)
-</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-cabral-viana/)](https://www.linkedin.com/in/felipe-cabral-viana/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/felipecv_7/)](https://www.instagram.com/felipecv_7/)
+
 
