@@ -1,84 +1,16 @@
-# presentation
+## Bem vindo ao meu perfil! 👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+o+Felipe,+Seja+bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipecv7&count_private=true&show_icons=true&theme=dark" /> </p>
 
 <p align="center">
-  <img width="300" img src="https://images.scrapee.net/result/202301290317295BH6KdQ6bE.gif">
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width='50px'/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
 </p>
 
+## Minhas redes socias! 📫
 
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-
-   <img src="https://img.shields.io/badge/Python-0175C2?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-   <img src="https://img.shields.io/badge/Ruby-02569B?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge">
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-   <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
-   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge">
-
-</div>
-
-
-
-
-## 🚀 Sobre mim
-Sou desenvolvedor Fullstack.<br>
-<!--Moro no interior do Rio de Janeiro e em Vitória.--> 
-<br>
-
-
-<br/>
-<!--
-<div style="display: center;">
-    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecv7&hide_progress=true&theme=aura" alt="ilustração do status do github">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipecv7&show_icons=true&theme=aura">
-</div>
--->
-<br> <br>
-<!--##-->
-
- <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=felipecv7&theme=matrix" alt="GitHub Trophy">
-</p>
-
-
-</div>
- <br>
-
-
-</a> 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=45&center=true&vCenter=true&width=1000&lines=+Página+em+construção+:+)](https://git.io/typing-svg)
-
-<!--<div align="center">
-  <a href="https://www.linkedin.com/in/felipe-cabral-viana/">
-    <img src="https://img.shields.io/badge/-Linkedin-ff69b4?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" style="width: 150px; margin-right: 15px;">
-  </a>
-  <a href="mailto:felipecv7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-00ffff?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" style="width: 120px; margin-right: 15px;">
-  </a>
-  <a href="https://github.com/felipecv7">
-    <img src="https://img.shields.io/github/followers/JennieOliveira99?label=follow&style=social&color=9370DB" alt="GitHub" style="width: 182px;">
-  </a>
-</div>
--->
-
-
-</div>
-<br>
-<br>
-
-
-
- 
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-cabral-viana/)](https://www.linkedin.com/in/felipe-cabral-viana/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/felipecv_7/)](https://www.instagram.com/felipecv_7/)
