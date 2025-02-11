@@ -5,6 +5,7 @@
 <div align="left">
   <a href="https://github.com/felipecabral">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="150" src="https://media.licdn.com/dms/image/v2/D5622AQFsvdGjxBomRg/feedshare-shrink_800/feedshare-shrink_800/0/1724446527741?e=1742428800&amp;v=beta&amp;t=ocjRiYdOuRjbFivJTcLMXZAlHvHP8SIPlOCvZr8QerI" loading="lazy" height="150" alt="Pré-visualização da imagem" id="ember5069" class="ivm-view-attr__img--centered ivm-view-attr__img--aspect-fit update-components-image__image update-components-image__image--constrained evi-image lazy-image ember-view">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecabral&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
